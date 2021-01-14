@@ -2,7 +2,6 @@ package com.bassem.springbootquiz.salemanagment.dto;
 
 
 import com.bassem.springbootquiz.salemanagment.entities.Sale;
-import javafx.scene.transform.Scale;
 
 import java.math.BigDecimal;
 import java.time.Instant;
